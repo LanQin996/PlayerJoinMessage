@@ -1,0 +1,5 @@
+name: PlayerJoinMessage
+version: '${version}'
+main: cn.playerjoinmessage.PlayerJoinMessage
+prefix: PlayerJoinMessage
+authors: [LanQin_]

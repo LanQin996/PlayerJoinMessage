@@ -1,0 +1,12 @@
+PlayerJoinMessage:
+  FirstJoinPlayer:
+
+    joinmessage:
+      - "&7&m------------------------"
+      - "&a&l欢迎新玩家%player_name%"
+      - "&7&m------------------------"
+  Default:
+    joinmessage:
+      - "&7&m------------------------"
+      - "&a&l玩家%player_name%加入了游戏"
+      - "&7&m------------------------"
